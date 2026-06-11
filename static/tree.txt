@@ -1,0 +1,56 @@
+analyze this tree and tell me if its good for posting on github
+Directory tree for: ../simple-song-maker-finished
+
+├── README.md
+├── codes
+│   ├── __pycache__
+│   │   ├── mid_to_wav.cpython-312.pyc
+│   │   ├── ssm_data_maker.cpython-312.pyc
+│   │   ├── ssm_data_maker_new.cpython-312.pyc
+│   │   ├── ssm_func.cpython-312.pyc
+│   │   ├── ssm_func_new.cpython-312.pyc
+│   │   ├── ssm_func_uhh.cpython-312.pyc
+│   │   ├── ssm_model.cpython-312.pyc
+│   │   └── ssm_trainer.cpython-312.pyc
+│   ├── ssm_data_maker_new.py
+│   ├── ssm_func_new.py
+│   ├── ssm_main.ipynb
+│   ├── ssm_model.py
+│   └── ssm_trainer.py
+├── meow.py
+├── models_classification_balanced
+│   ├── music_classification_lstm_1.pth
+│   ├── music_classification_lstm_10.pth
+│   ├── music_classification_lstm_11.pth
+│   ├── music_classification_lstm_12.pth
+│   ├── music_classification_lstm_13.pth
+│   ├── music_classification_lstm_14.pth
+│   ├── music_classification_lstm_15.pth
+│   ├── music_classification_lstm_16.pth
+│   ├── music_classification_lstm_17.pth
+│   ├── music_classification_lstm_18.pth
+│   ├── music_classification_lstm_19.pth
+│   ├── music_classification_lstm_2.pth
+│   ├── music_classification_lstm_20.pth
+│   ├── music_classification_lstm_21.pth
+│   ├── music_classification_lstm_22.pth
+│   ├── music_classification_lstm_23.pth
+│   ├── music_classification_lstm_24.pth
+│   ├── music_classification_lstm_3.pth
+│   ├── music_classification_lstm_4.pth
+│   ├── music_classification_lstm_5.pth
+│   ├── music_classification_lstm_6.pth
+│   ├── music_classification_lstm_7.pth
+│   ├── music_classification_lstm_8.pth
+│   └── music_classification_lstm_9.pth
+├── models_classification_balanced_try
+│   ├── music_classification_lstm_1.pth
+│   ├── music_classification_lstm_2.pth
+│   ├── music_classification_lstm_3.pth
+│   └── music_classification_lstm_4.pth
+├── requirements.txt
+└── static
+    ├── generated_song_1781.wav
+    ├── generated_song_3887.wav
+    ├── generated_song_5428.wav
+    └── generated_song_8824.wav
