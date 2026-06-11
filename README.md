@@ -6,7 +6,7 @@ Model je treniran na `music21` korpusu Bahovih korala kako bi naučio složene h
 
 ---
 
-## 🚀 Početak
+## Početak
 
 Prati ove korake za postavljanje okruženja, treniranje modela ili generisanje muzike koristeći već istrenirani *checkpoint*.
 
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧠 Korišćenje i pokretanje
+## Korišćenje i pokretanje
 
 Ceo proces (*pipeline*) je centralizovan u jednoj Jupyter svesci.
 
@@ -68,7 +68,7 @@ Ako želiš da treniraš mrežu od nule:
 
 ---
 
-## 🎼 Generisanje muzike
+## Generisanje muzike
 
 Generisana pesma se nalazi u *static* folderu, pazi da folder ne postane pretrpan.
 
